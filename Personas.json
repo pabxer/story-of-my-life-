@@ -1,0 +1,28 @@
+{
+    "Personas": "miFamilia",
+    "Lista": [{
+        "Nombre": "Eduardo D'Angelo",
+        "númerof" : 1,
+        "Trabajo" : true,
+        "Nacimiento": "02-06-1980"
+    },
+    {
+        "Nombre": "Adriana Galerti",
+        "númerof": 19,
+        "Trabajo": false,
+        "Nacimiento": "19-11-1978"
+    },
+    {
+        "Nombre": "Jazmin D'Angelo",
+        "númerof": 4,
+        "Trabajo": false,
+        "Nacimiento": "01-09-2008"
+    },
+    {
+        "Nombre": "Pablo D'Angelo",
+        "númerof": 17,
+        "Trabajo": false,
+        "Nacimiento": "11-06-2006"
+    }
+]
+}
